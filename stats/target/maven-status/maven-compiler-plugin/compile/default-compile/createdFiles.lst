@@ -1,0 +1,5 @@
+com\iacademy\stats\StatsApplication.class
+com\iacademy\stats\domain\Task.class
+com\iacademy\stats\service\StatsService.class
+com\iacademy\stats\service\impl\StatsServiceImpl.class
+com\iacademy\stats\resource\StatsResource.class
